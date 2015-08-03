@@ -4,3 +4,4 @@
 * [ php 操作 redis 类库] (./php_class/Redis.class.php)
 * [ 分页类] (./php_class/page.class.php) 
 * [ 文件上传类 ](./php_class/fileUpload.class.php)
+* [ 微信开发类库 ](./php_class/weixin.php)
