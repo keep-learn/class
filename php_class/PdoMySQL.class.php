@@ -1,5 +1,14 @@
 <?php 
 //header('content-type:text/html;charset=utf-8');
+// 这些是定义的配置信息,可以专门设置一个配置文件inclue进去config.php
+define("DB_HOST",'localhost');
+define("DB_USER",'root');
+define('DB_PWD','root');
+define('DB_NAME','imooc');
+define('DB_PORT','3306');
+define('DB_TYPE','mysql');
+define('DB_CHARSET','utf8');
+
 class PdoMySQL{
 	public static $config=array();//设置连接参数，配置信息
 	public static $link=null;//保存连接标识符
