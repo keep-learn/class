@@ -8,5 +8,8 @@
 * [ faceplusplus 人脸识别接口 ](./php_class/face.class.php)
 
 > [ 人脸识别接口 项目的源码](./php_class/face)
-> 注意要使用自己的 API_KEY API_SECRATY
+  注意要使用自己的 API_KEY API_SECRATY
   ![效果展示](./php_class/face/images/face.png)
+
+
+* [cookie 类库 ](./php_class/cookie.class.php)
