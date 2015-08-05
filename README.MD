@@ -15,3 +15,6 @@
 
 * [cookie 类库 ](./php_class/cookie.class.php)
 * [session 类库 ](./php_class/session.class.php)
+----------------------------
+* [Jpgraph 类库 ] 用于 php 绘制图表使用(./php_class/jpgraph)
+
