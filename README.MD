@@ -16,4 +16,5 @@
 * [cookie 类库 ](./php_class/cookie.class.php)
 * [session 类库 ](./php_class/session.class.php)
 * [Jpgraph 类库用于 php 绘制图表使用 ] (./php_class/jpgraph)
+* [Spider 一个递归的抓取网站上的图片 ] (./php_class/spider.php)
 
