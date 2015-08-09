@@ -18,4 +18,5 @@
 * [Jpgraph 类库用于 php 绘制图表使用 ] (./php_class/jpgraph)
 * [Spider 一个递归的抓取网站上的图片 ] (./php_class/spider.php)
 * [抓取 网易看客 上的图片的类, Just for fun ](./php_class/SeizeImg.class.php)
+> ![实例图片](./img/seize.png)
 
