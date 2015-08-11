@@ -2,7 +2,8 @@
 
 * [ Pdo 封装类库 ] (./php_class/PdoMySQL.class.php)
 * [ 数据 转 json 或者 xml ] (./php_class/response.php)
-* [ php 操作 redis 类库] (./php_class/Redis.class.php)
+* [ Redis 封装类库] (./php_class/Redis.class.php)
+* [ Memcache 封装类库] (./php_class/Memcache.class.php)
 * [ 分页类] (./php_class/page.class.php) 
 * [ 文件上传类 ](./php_class/fileUpload.class.php)
 * [ 微信开发类库 ](./php_class/weixin.php)
