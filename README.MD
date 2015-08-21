@@ -8,6 +8,8 @@
 * [ 文件上传类 ](./php_class/fileUpload.class.php)
 * [ 微信开发类库 ](./php_class/weixin.php)
 * [ faceplusplus 人脸识别接口 ](./php_class/face.class.php)
+* [jquery.more.js 点击加载更多 ](./php_class/jquery.more.js)
+
 
 > [ 人脸识别接口 项目的源码](./php_class/face)
   注意要使用自己的 API_KEY API_SECRATY
@@ -20,4 +22,5 @@
 * [Spider 一个递归的抓取网站上的图片 ] (./php_class/spider.php)
 * [抓取 网易看客 上的图片的类, Just for fun ](./php_class/SeizeImg.class.php)
 > ![实例图片](./img/seize.png)
+
 
