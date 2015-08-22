@@ -21,3 +21,17 @@ function SeizePassage(){
 		echo $artlist;
 		echo "</pre>";
  }
+
+ /*
+分析总结:
+
+phpquery 是基于 juqery 而开发的,所以使用极其类似 jquery .
+其中: pq() 相当于 juqery 中的 $() 方法.
+循环:
+	$article=pq('.article');
+	foreach($article as $i){
+		pq($i)->find('a')->html();
+	}
+抓取属性:
+	$link = pq('.article a')->attr('href');	
+ */
