@@ -9,6 +9,7 @@
 * [ 微信开发类库 ](./php_class/weixin.php)
 * [ faceplusplus 人脸识别接口 ](./php_class/face.class.php)
 * [jquery.more.js 点击加载更多 ](./php_class/jquery.more.js)
+* [使用 strtotime() 产生今天,本周,本月时间戳的范围](./php_class/strtotime.php)
 
 
 > [ 人脸识别接口 项目的源码](./php_class/face)
