@@ -10,7 +10,7 @@
 * [ faceplusplus 人脸识别接口 ](./php_class/face.class.php)
 * [jquery.more.js 点击加载更多 ](./php_class/jquery.more.js)
 * [使用 strtotime() 产生今天,本周,本月时间戳的范围](./php_class/strtotime.php)
-
+* [Nginx 配置虚拟主机,配置文件](./php_class/Nginx_VirtualHost.txt)
 
 > [ 人脸识别接口 项目的源码](./php_class/face)
   注意要使用自己的 API_KEY API_SECRATY
