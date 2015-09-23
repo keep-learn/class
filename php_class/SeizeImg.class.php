@@ -1,4 +1,4 @@
-<?php
+<?php 
 // Notice:首先要require() pdo.class.php
 class SeizeImg{
 // 下载列表图片 , tb_passgelist
