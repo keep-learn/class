@@ -24,6 +24,7 @@
 * [练习使用 phpquery 抓取网站上的内容 ](./php_class/exe_phpquery.php)
 * [Spider 一个递归的抓取网站上的图片 ] (./php_class/spider.php)
 * [抓取 网易看客 上的图片的类, Just for fun ](./php_class/SeizeImg.class.php)
+* [rabbitMq 消费者代码,面向对象](./php_class/rabbitMq.php)
 > ![实例图片](./img/seize.png)
 
 
